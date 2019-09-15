@@ -5,6 +5,7 @@
 ## 目录
 
 * 语言无关类
+  * [操作系统](#操作系统)
   * [分布式系统](#分布式系统)
   * [编译原理](#编译原理)
   * [WEB服务器](#web服务器)
@@ -27,11 +28,6 @@
   * [Python](#python)
   * [Shell](#shell)
 
-
-## 置顶
-
-- [[笔记]前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/) :100:
-- [[全文]如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly) :100:
 
 ## 操作系统
 
@@ -168,9 +164,6 @@
 [返回目录](#目录)
 
 
-
-[返回目录](#目录)
-
 ## Java
 
 
@@ -293,6 +286,8 @@
 * [前端技能汇总](https://github.com/JacksonTian/fks)
 * [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
+- [[笔记]前端工程师的入门与进阶](https://shenbao.github.io/2017/04/22/justjavac-live/) :100:
+- [[全文]如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly) :100:
 
 [返回目录](#目录)
 
